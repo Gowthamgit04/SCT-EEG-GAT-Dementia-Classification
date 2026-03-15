@@ -5,4 +5,4 @@ Authors:
 2) Gowtham Reddy N, Computer Science and Engineering, IIT Gandhinagar
 3) Debashree Guha, School of Medical Science and Technology, IIT Kharagpur
 4) Mrinal Acharya, Dr B C Roy Multi Speciality Medical Research Centre, IIT Kharagpur
-5) Manjunatha MAhadevappa, School of Medical Science and Technology, IIT Kharagpur
+5) Manjunatha Mahadevappa, School of Medical Science and Technology, IIT Kharagpur
